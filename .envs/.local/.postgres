@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=appstore_service
+POSTGRES_USER=vlGZRsqXdLmujrxaLnaejUQJOfbDRSzo
+POSTGRES_PASSWORD=YBqBlJDxTlGvyZkiVvhIVhKIkdY1R5wIt97E9ph8yNDcIWZVorOsXQ9rs4Y1dITf
